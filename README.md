@@ -18,7 +18,4 @@ Welcome to **Cultraz**, a curated powerhouse of tools specifically engineered fo
 To get the most out of these tools, follow the steps below:
 
 ### 1. Installation
-Clone this repository directly into your local workspace:
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/cultraz.git](https://github.com/yourusername/cultraz.git)
+You can download or clone the whole repo for all tools or loadstring to use specific script or tool in your environment
